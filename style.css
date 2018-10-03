@@ -1,0 +1,51 @@
+body { margin: 0px; background: white; font: 11px/11px roboto; }
+a { color: #3b3e42; text-decoration: none; }
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700');
+
+#uxsoc { width: 100%; }
+.uxs1 { width: 100%; position: relative; height: 788px; text-align: left;  }
+.uxsoc-logo { background-image: url(https://cdnw.nickpic.host/xhbcys.png); width: 150px; height: 57px; background-size: 150px; }
+.uxs1 .uxsoc-logo { position: absolute; top: 84px; left: 188px; }
+.uxs1-bar { position: absolute; top: 100px; right: 188px; }
+.uxs1-bar a { margin-left: 63px; font: 400 16px/16px Nunito Sans; }
+.uxs1-intro { width: calc(100% - 376px); position: absolute; left: 188px; top: 245px; }
+.uxs1-intro h2 { margin: 0px; font: 700 11px/11px nunito sans; text-transform: uppercase; letter-spacing: 5px; color: #b3bcc4;  }
+.uxs1-intro h1 { margin: 0px; margin-top: 35px; font: 700 45px/55px nunito sans; }
+.uxs1-button { margin-top: 61px; width: 130px; background: #008ed4; padding: 25px; color: white; font: 10px/10px nunito sans; letter-spacing: 1px; border-radius: 6px; box-shadow: 0px 4px 4px rgba(0,0,0,0.25); }
+.uxs1-img { background-image: url(https://cdnw.nickpic.host/xhbS8n.png); width: 703px; height: 730px; background-size: 703px; position: absolute; top: 188px; right: 0px; z-index: 2; }
+
+#uxs2 { width: 100%; position: relative; background: #008ed4; color: white; text-align: center; padding: 222px 0px 245px 0px; font: 300 25px/44px nunito sans; letter-spacing: 1px;  }
+.uxs2 p { margin: 0px auto; }
+.uxs2-img1 { width: 348px; height: 459px; background-size: 348px; background-image: url(https://cdnw.nickpic.host/xhb5EJ.png); position: absolute; top: -131px; right: 0px; }
+.uxs2-img2 { width: 497px; height: 485px; background-image: url(https://cdnw.nickpic.host/xhbFUW.png); position: absolute; bottom: -88px; left: 0px;  }
+
+#uxs3 { width: 100%; background: #eef1f6; padding: 110px 0px; position: relative; }
+.uxs3-td { width: 520px; height: 785px; background: white; overflow: hidden; border-radius: 10px; text-align: center; }
+.td1 { margin-right: 20px; }
+.uxs3-tdimg { width: 520px; height: 400px; background: url(https://cdnw.nickpic.host/xhblvj.png); }
+.uxs3-td h2 { margin: 0px; margin-top: 20px; font: 700 11px/11px nunito sans; text-transform: uppercase; letter-spacing: 5px; color: #b3bcc4;   }
+.uxs3-td h1 { margin: 0px; font: 700 30px/30px nunito sans; margin-top: 14px; }
+.uxs3-td p { margin: 40px 130px; margin-top; 45px; font: 14px/22px nunito sans; }
+.uxs3-button { width: 220px; background: #008ed4; padding: 25px; color: white; font: 11px/11px nunito sans; letter-spacing: 1px; border-radius: 6px; text-align: center; margin: auto;  }
+
+#uxs4 { background: white; position: relative; padding: 95px 0px; }
+#uxs4 h2 { font: 700 11px/11px nunito sans; text-transform: uppercase; letter-spacing: 5px; color: #b3bcc4; margin: 0px; }
+#uxs4 h1 { font: 700 35px/45px nunito sans; margin: 0px; margin-top: 45px; margin-bottom: 60px; }
+.uxs4-button { background: #008ed4; padding: 23px 25px; color: white; font: 10px/10px nunito sans; letter-spacing: 1px; border-radius: 6px; box-shadow: 0px 4px 4px rgba(0,0,0,0.25); width: 130px; margin-top: 60px; }
+
+#uxs4 input, #uxs4 textarea { padding: 25px 30px; font: 12px/12px nunito sans; color: #abb2b7; border: 1px solid #b3bcc4; border-radius: 8px; display: block; margin-bottom: 40px; }
+.uxsinput { height: 100px; margin-bottom: 0px; }
+.uxs5 { width: calc(100% - 376px); position: relative; padding: 0px 188px; height: 345px; margin-top: 40px; position: relative; }
+.uxs5 .uxsoc-logo { position: absolute; top: 0px; left: 188px; width: 138px; background-size: 138px; }
+.uxs5-links { width: 640px; position: absolute; top: 0px; right: 100px; }
+.uxs5-links td { width: 150px; margin-left: 10px; text-align: left; font: 12px/21px nunito sans; height: 84px; }
+.uxs5-links td a { display: block;}
+
+.uxs5-cred { position: absolute; top: 200px; text-align: left; color: #b3bcc4; font: 11px/14px nunito sans; }
+.uxs5-social { position: absolute; top: 200px; right: 188px; }
+.uxs5-social a { width: 27px; height: 27px; display: inline-block; margin-left: 25px; }
+.uxfb { background-image: url(https://files.jcink.net/uploads/avey/uxfb.png)}
+.uxtwit { background-image: url(https://files.jcink.net/uploads/avey/uxtwit.png); }
+.uxmed { background-image: url(https://files.jcink.net/uploads/avey/uxmed.png); }
